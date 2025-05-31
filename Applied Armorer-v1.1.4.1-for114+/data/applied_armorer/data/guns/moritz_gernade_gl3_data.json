@@ -29,7 +29,7 @@
     "explosion": {
       "explode": true,
       "damage": 80,
-      "radius": 5.5,
+      "radius": 4,
       "knockback": false,
       "delay": 30
     }

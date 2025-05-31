@@ -6,21 +6,21 @@
   "bullet": {
     "life": 3,
     "bullet_amount": 1,
-    "damage": 20,
+    "damage": 200,
     "extra_damage": {
-      "armor_ignore": 0.0,
-      "head_shot_multiplier": 1
+      "armor_ignore": 1.0,
+      "head_shot_multiplier": 2
     },
     "speed": 150,
     "gravity": 0.015,
     "knockback": 0,
     "friction": 0.005,
     "ignite": false,
-    "pierce": 0,
+    "pierce": 4,
     "explosion": {
       "explode": true,
-      "damage": 400,
-      "radius": 8,
+      "damage": 60,
+      "radius": 4,
       "knockback": true,
       "destroy_block": true,
       "delay": 30
